@@ -1,0 +1,6 @@
+com\example\secureapp\controller\AuthController.class
+com\example\secureapp\SecureAppApplication.class
+com\example\secureapp\service\CustomUserDetailsService.class
+com\example\secureapp\model\User.class
+com\example\secureapp\repository\UserRepository.class
+com\example\secureapp\config\SecurityConfig.class
